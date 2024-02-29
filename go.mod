@@ -1,4 +1,4 @@
-module github.com/jsonnet-bundler/jsonnet-bundler
+module github.com/titt/jsonnet-bundler
 
 go 1.22.0
 
